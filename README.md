@@ -67,12 +67,12 @@ MobileNetViT employs a **dual-stream hybrid design**:
 ---
 
 ## 📁 Repository Structure
-• EDA: Exploratory data analysis and dataset statistics
-• Pre Processing: Image preprocessing and augmentation pipelines
-• Benchmarking: Baseline model implementations and evaluation scripts
-• Proposed Models: MobileNetViT and EfficientNetViT architectures
-• Explainability: Optimized Score-CAM visualization implementation
-• Inferencing: Inference scripts
+- EDA: Exploratory data analysis and dataset statistics
+- Pre Processing: Image preprocessing and augmentation pipelines
+- Benchmarking: Baseline model implementations and evaluation scripts
+- Proposed Models: MobileNetViT and EfficientNetViT architectures
+- Explainability: Optimized Score-CAM visualization implementation
+- Inferencing: Inference scripts
 
 ---
 
