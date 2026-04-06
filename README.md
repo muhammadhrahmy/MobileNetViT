@@ -1,4 +1,4 @@
-# MobileNetViT: Lightweight Hybrid CNN-ViT for Brain Tumor Classification
+# MobileNetViT: Lightweight Hybrid CNN-ViT for Brain Tumor Classification with Explainability
 
 **A lightweight hybrid CNN-Vision Transformer architecture achieving 99.16% accuracy with only 2.99M parameters for brain tumor MRI classification.**
 
